@@ -104,7 +104,7 @@ As an example, the minting contract uses AJ Walker’s Alias Method to efficient
 ---
 ## Recommendations
 
-- If I were to advise Wolf Game my only suggestion would be to create their own marketplace with lower royalty fees. Currently all collections have creator royalty fees set at 6.9% (this means that 6.9 percent of every sale goes directly to the creators). If they were to create their own marketplace with fees around 2-4 percent I think it would lead to more people trading their assets and it would show insestors that the team is very much community oriented.
+- If I were to advise Wolf Game my only suggestion would be to create their own marketplace with lower royalty fees. Currently all collections have creator royalty fees set at 6.9% (this means that 6.9 percent of every sale goes directly to the creators). If they were to create their own marketplace with fees around 2-4 percent, I believe it would lead to more people trading their assets and it would show investors that the team is very much community oriented.
 - The technologies utilized for this marketplace are already being used for other NFT collections such as CryptoPunks. They have a site completely seperate from opensea where the royalties are set to 0%.
 
 
